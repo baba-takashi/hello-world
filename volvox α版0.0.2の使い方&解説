@@ -1,0 +1,96 @@
+Homepage
+volvox
+Go to the profile of Yutaro Koga
+Yutaro Koga
+CEO at volvox Inc.
+Oct 7
+volvox α版0.0.2の使い方&解説
+volvox α版0.0.2の使い方
+サインインしましたら、左上の+ボタンをクリックし、プロジェクトを作成してください。
+
+2. するとこのような画面に遷移するので、プロジェクト作成のためのパラメータを入力していきましょう。
+
+
+Project name: あなたのプロジェクトの名前を入力してください。
+
+Project description: あなたのプロジェクトの概要を入力してください。GitHubのorganizationやrepositoryのURLを入力すると親切です。
+
+Token name: プロジェクトに発行するトークンの名前を入力してください。
+
+Token symbol: プロジェクトトークンのシンボルを入力してください。BitcoinならBTC、日本円ならJPY のようなものです。
+
+Token total supply: プロジェクトトークンの総発行可能枚数を入力してください。
+
+Token issue interval: プロジェクトトークン発行の期間を入力してください。7日に設定すると、7日に１度トークンが発行され、分配されます。
+
+Token issue rate: プロジェクトトークンの発行率を入力してください。Token issue intervalに設定した期間ごとに、Token issue rateで設定した割合のトークンが分配されます。
+
+3. createボタンをクリックすると、トークンが発行され、プロジェクトが作られます。
+
+4. するとDescription画面に遷移します。ここでいつでもプロジェクトの詳細を確認できます。また、画面下部のJoin linkをシェアすることで、あなたのプロジェクトにメンバーを誘うことができます。
+
+
+5. 次にサイドバーのAppsをクリックしてみましょう。Github: Commit RewardとGithub: Merged Pull Request Rewardというアプリが用意されています。今回は、Github: Commit Rewardを利用するべく、このアプリ名の右側のsettingをクリックしてみましょう。
+
+
+6. 遷移後の画面で、installをクリックします。
+
+
+7. installをクリックすると、フォームが表示されるので、入力します。このアプリの場合には、あなたのGitHub repository URLを入力し、Updateボタンをクリックしましょう。
+
+
+8. 次にこのページの文章に沿って操作をすることで、このアプリを利用できます。volvoxアドレスは、サイドバーのユーザーマークをクリックし、マイページに遷移することで確認することができます。
+
+
+
+volvox α版0.0.2の解説
+volvoxは、ブロックチェーン時代の新しい組織の形を実現するプラットフォームです。例えば、オープンソースのような、価値定義がなされていない活動に対して本来あるべき価値を与えることで、イノベーションを加速させます。
+
+具体的にvolvoxで出来ることは、プロジェクトのトークンの発行とその分配です。トークンは、プロジェクトに対する個人の貢献度に応じて分配されます。この貢献度の算出を管理者が行う場合、中央集権的な組織となります。一方で、管理者ではなく、プロジェクトメンバー全員の意思により行う場合には、DAO(自律分散型組織)になります。volvoxでは、貢献度の算出方法を複数用意し、よりフレキシブルな組織の実現をサポートします。
+
+プロジェクトトークン
+プロジェクトトークンは、プロジェクトへの貢献度に応じてメンバーに分配されます。しかし、プロジェクトトークンには、どのような利用用途があるのでしょうか？
+
+プロジェクトトークンには、大きく分けて2つの使い道が存在します。
+
+プロジェクトの成果物の利用料の支払い
+プロジェクトの成果物(OSSならばプログラム)の利用料を、トークン払いにする設定することができます。これにより、貢献度に応じて分配したプロジェクトトークンに価値が定義されます。
+
+2. DAppのトークンとしてプロジェクトトークンを利用する
+
+あなたのプロジェクトが、DApp(ブロックチェーンを用いた分散型アプリケーション)であった場合には、プロジェクトトークンをあなたのDAppに組み込むことで、プロジェクトトークンの価値が定義されます。
+
+3. 投資対象
+
+1, 2のような利用料があることにより、トークンに価値が定義されます。それにより、値上がりを期待した投資家たちの購買を促すことになり、トークンのさらなる価値上昇を期待できます。
+
+トークンは、将来的にEthereumと交換できるようになる予定です。ですので、法定通貨(日本円など)に交換することも可能となります。
+
+— — — — — — — — — — —
+
+Let’s use volvox!
+
+BlockchainDao
+Go to the profile of Yutaro Koga
+Yutaro Koga
+CEO at volvox Inc.
+
+volvox
+volvox
+volvoxは、ブロックチェーン時代の新たな組織を形成するツールです。
+
+Top on Medium
+Relax, Ladies. Don’t Be So Uptight. You Know You Want It
+Go to the profile of Anastasia Basil
+Anastasia Basil
+Top on Medium
+Your Work Is the Only Thing That Matters
+Go to the profile of Ryan Holiday
+Ryan Holiday
+Top on Medium
+The Big Disruption
+Go to the profile of Jessica Powell
+Jessica Powell
+Responses
+volvox
+Never miss a story from volvox, when you sign up for Medium. Learn more
